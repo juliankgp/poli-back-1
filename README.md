@@ -15,5 +15,5 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 1. Clona este repositorio:
 
    ```bash
-   git clone [https://github.com/tuusuario/turepositorio.git](https://github.com/juliankgp/poli-back-1)https://github.com/juliankgp/poli-back-1
+   git clone (https://github.com/juliankgp/poli-back-1)https://github.com/juliankgp/poli-back-1
    cd turepositorio
